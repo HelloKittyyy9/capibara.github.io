@@ -1,0 +1,48 @@
+h1 {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    background: linear-gradient(135deg, #12BCB0 20%, #FABE0E 70%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    display: inline-block;
+    padding: 0.3em 0.6em ;
+    border: 3px solid transparent;
+    border-image: linear-gradient(20deg, #f92056 38%, #00deff 65%);
+    border-image-slice: 1;
+    line-height: 1.5;
+    font-size: 6rem;
+}
+p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    padding: 20px;
+    letter-spacing: 0.2em;
+    border: 1px solid;
+    border-image: linear-gradient(20deg, #f92056 38%, #00deff 65%);
+    border-image-slice: 1;
+
+}
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+body {
+    color: floralwhite;
+    background: black;
+}
+
+img {
+    width: 700px;
+    height: 450px;
+}
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    padding: 10px;
+    letter-spacing: 0.2em;
+}
